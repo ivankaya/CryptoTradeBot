@@ -1,1 +1,3 @@
+# CryptoTradeBot
+
 Initial commit
